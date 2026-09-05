@@ -1,0 +1,12 @@
+backend/venv/
+backend/.env
+
+__pycache__/
+*.pyc
+
+node_modules/
+.next/
+
+*.db
+
+data/raw/
